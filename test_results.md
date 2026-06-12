@@ -4,13 +4,10 @@
 **Total Queries:** 20
 
 ---
-
-|
 #
-|
-    Query
-|
-    Aria Response Summary
+   Query
+    
+  Aria Response Summary
 |
     Pass/Fail
 |
