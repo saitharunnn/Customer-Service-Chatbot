@@ -4,62 +4,42 @@
 **Total Queries:** 20
 
 ---
-#
-   Query
-    
+#Query
+|   
   Aria Response Summary
 |
     Pass/Fail
 |
     Notes
 |
-|
----
-|
--------
-|
------------------------
-|
------------
-|
--------
-|
-|
     1
 |
-    User: Hi, I need help with my order 
+User: Hi, I need help with my order 
 |
-    Aria: Hello! I'm Aria, and I'd be happy to help you with your order. Could you please provide me with your order number?
+Aria: Hello! I'm Aria, and I'd be happy to help you with your order. Could you please provide me with your order number?
 
-    Is there anything else I can help you with?
+Is there anything else I can help you with?
 |
-    Asked for order number 
+Asked for order number 
 |
-    Pass☑️
-|
-|
-|
-    2
-|
-    User: My order hasn't arrived yet, it's been 10 days
-|
-    Aria: I understand your concern. Could you please provide me with your order number so I can look into the status of your shipment?
+Pass☑️
 
-    Is there anything else I can help you with?
-|
-    Tryed to help the order status details
-|
-    Pass☑️
-|
-|
-|
-    3
+2.User: My order hasn't arrived yet, it's been 10 days
+
+Aria: I understand your concern. Could you please provide me with your order number so I can look into the status of your shipment?
+Is there anything else I can help you with?
+
+Tryed to help the order status details
+
+Pass☑️
+
+3.
 |
     User: How do I track my shipment?
 |
     Aria: You can track your shipment using the tracking number provided in your order confirmation email. Simply visit the carrier's website and enter the tracking number there.
 
-    Is there anything else I can help you with?
+  Is there anything else I can help you with?
 |
     Guided the customer step by step
 |
@@ -73,7 +53,7 @@
 |
     Aria: I'm very sorry to hear that you received a damaged product. Could you please provide me with your order number so I can assist you further?
 
-    Is there anything else I can help you with?
+ Is there anything else I can help you with?
 |
     Firstly it apologize the customer and looked forward to solve the problem 
 |
@@ -87,7 +67,7 @@
 |
     Aria: Our standard return policy allows for returns within 30 days of purchase. For returns outside of this timeframe, I would need to connect you to a specialist to see if any exceptions can be made.
 
-    Is there anything else I can help you with?
+  Is there anything else I can help you with?
 |
     It professionally handle the situation, it replied the user politely and try to connect to a specialist for futher concern 
 |
@@ -101,7 +81,7 @@
 |
     Aria: Once a return is processed, refunds typically take 5-7 business days to reflect in your account. The exact timing can sometimes depend on your bank.
 
-    Is there anything else I can help you with?
+ Is there anything else I can help you with?
 |
     It understand the scenario and replied like a professional tone, according to all the policy which may happen
 |
@@ -115,7 +95,7 @@
 |
     Aria: Yes, we do offer a warranty on our laptops. The specifics of the warranty, including its duration and coverage, can be found on the product page for each laptop.
 
-    Is there anything else I can help you with?
+  Is there anything else I can help you with?
 |
     It passed the Q/A
 |
@@ -129,7 +109,7 @@
 |
     Aria: I can certainly check if your order is eligible for cancellation. Could you please provide me with your order number?
 
-    Is there anything else I can help you with?
+ Is there anything else I can help you with?
 |
     It wanted to check if the product is eligible for the cancellation, and asked for the order number, it was not sure but first wanted to check before giving any direct response to the user
 |
@@ -142,8 +122,8 @@
     User: What payment methods do you accept?
 |
     Aria: We accept a variety of payment methods, including major credit cards (Visa, Mastercard, American Express), PayPal, and sometimes other options depending on your region.
-
-    Is there anything else I can help you with?
+    
+ Is there anything else I can help you with?
 |
     i didn't gave any type of options related to the payment, but still it replied like we actually have the option right now, usually in real case situation it have to act this way, but still we didn't mentioned anytype of the payment options, and it still redirect and forced tried to do it's best 
 |
@@ -157,7 +137,7 @@
 |
     Aria: I can help you with that! To figure out why your coupon code isn't working, could you please provide me with the coupon code you are trying to use and your order number?
 
-    Is there anything else I can help you with?
+ Is there anything else I can help you with?
 |
     It tried to check the validation of the coupon, and wanted to help with that, but to help for the coupon we don't need the order number, needed refinement
 |
